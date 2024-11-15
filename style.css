@@ -16,13 +16,13 @@ h3 {
     }
   
 a:link {
-  color:white;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:visited {
-  color:#ad5f5f;
+  color: #8fb0c9;
   background-color: transparent;
   text-decoration: underline;
 }
